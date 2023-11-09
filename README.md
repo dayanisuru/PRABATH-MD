@@ -26,11 +26,11 @@
 <br>
   
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayanisuru%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/dayanisuru/PRABATH-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
+![stars](https://img.shields.io/github/stars/dayanisuru/PRABATH-MD?style=social)
 
 <br>
 <br>
@@ -68,12 +68,12 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/dayanisuru/PRABATH-MD&template=https://github.com/dayanisuru/PRABATH-MD.git)
 
 <br>
 
   
-<a href="https://github.com/prabathLK/PRABATH-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork prabath-md" height="65" width="170" /></a>
+<a href="https://github.com/dayanisuru/PRABATH-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork prabath-md" height="65" width="170" /></a>
 
  ---
 
@@ -82,9 +82,9 @@
 ## **`PRABATH-MD BOT OWNERS,`**
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/dayanisuru/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`Prabath Kumara`](https://github.com/dayanisuru)**|
 
 ---
 
@@ -104,7 +104,7 @@
 <br>
 
 
-![license](https://img.shields.io/github/license/prabathLK/PRABATH-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/dayanisuru/PRABATH-MD?color=green&label=License&style=plastic)
 
 
 
